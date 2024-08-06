@@ -1,4 +1,4 @@
-# flutter_application_2
+# First Ever Flutter Todo App
 
 A new Flutter project.
 
